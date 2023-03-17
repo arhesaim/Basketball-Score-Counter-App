@@ -24,6 +24,7 @@ public class MainViewModel extends ViewModel {
         scoreTeam1.setValue(scoreTeam1.getValue() + 1);
     }
 
+
     public void add3Team2Score(){
         scoreTeam2.setValue(scoreTeam2.getValue() + 3);
     }

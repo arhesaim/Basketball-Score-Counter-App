@@ -11,6 +11,7 @@ import android.widget.TextView;
 
 public class MainActivity extends AppCompatActivity {
 
+
     private Button score3Team1btn, score2Team1btn, score1Team1btn, score3Team2btn, score2Team2btn, score1Team2btn, resetbtn;
 
     private TextView scoreTeam1, scoreTeam2;
